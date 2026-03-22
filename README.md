@@ -1,4 +1,4 @@
-
+BotDetect
 Detecta y oculta comentarios sospechosos de bots y spam en Facebook , Instagram y LinkedIn .
 Extensión para PC que filtra automáticamente + Web App / PWA que funciona en cualquier celular sin instalar nada.
 
@@ -12,7 +12,7 @@ Instalar como aplicación	N / A	✅ "Agregar una pantalla de inicio"
 Flujo de usuario en móvil (3 pasos)
 1. Ves un comentario sospechoso en Instagram / Facebook / LinkedIn
 2. Mantenés presionado el comentario → "Copiar texto"
-3. Abrís botfilter.app → pegás → resultado instantáneo
+3. Abrís botdetect.app → pegás → resultado instantáneo
 Manifiesto V3 Licencia: MIT Versión
 
 📋 Tabla de contenidos
@@ -38,7 +38,7 @@ Característica	Descripción
 🖼️ Capturas de pantalla
 [Popup de la extensión]          [Comentario marcado como bot]
 ┌─────────────────────┐          ┌──────────────────────────────────────┐
-│ 🤖 BotFilter        │          │ 🤖 Posible bot/spam detectado         │
+│ 🤖 BotDetect       │          │ 🤖 Posible bot/spam detectado         │
 │ Filtro de bots...   │          │ Puntuación: 4.5 • Frase spam: "DM me"│
 ├─────────────────────┤          │                              [Mostrar]│
 │ Filtrado activo  ✅ │          └──────────────────────────────────────┘
