@@ -1,6 +1,6 @@
 {
-  "name": "BotFilter — ¿Bot o persona real?",
-  "short_name": "BotFilter",
+  "name": "BotDetect — ¿Bot o persona real?",
+  "short_name": "BotDetect",
   "description": "Detecta comentarios de bots y spam en redes sociales",
   "start_url": "/",
   "display": "standalone",
